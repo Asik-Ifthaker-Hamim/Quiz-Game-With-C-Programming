@@ -1,0 +1,136 @@
+A. Bjarne Stroustrup
+B. James A. Gosling
+C. Dennis Ritchie
+D. Dr. E.F. Codd
+A. AT & T's Bell Laboratories of USA
+B. AT Dell Laboratories of USA
+C. Sun Microsystems
+D. Cambridge University
+A. _quizgame
+B. 1quizgame
+C. quiz_game
+D. quizgame1
+A. start()
+B. system()
+C. printf()
+D. main()
+A. float
+B. real
+C. int
+D. char
+A. :=
+B. =
+C. equal
+D. ==
+A. //Comment
+B. X & Y
+C. * Comment *
+D. <---Comment---->
+A. Bitwise AND
+B. Bitwise OR
+C. Logical AND
+D. Logical OR
+A. 8 bytes
+B. 4 bytes
+C. 2 bytes
+D. 1 byte
+A. 1970
+B. 1978
+C. 1979
+D. 1972
+A. binary
+B. unary
+C. size
+D. arithmetic
+A. do{}while(1)
+B. for(;;){}
+C. All of these
+D. while(1){}
+A. char name(20);
+B. char name[20];
+C. char name{20};
+D. char [20]name;
+A. #s
+B. %s
+C. #str
+D. %c
+A. all of them
+B. newline character
+C. EOF character
+D. whitespace
+A. zero character
+B. none character
+C. end character
+D. null character
+A. 0
+B. 1
+c. -1
+D. Value of first element
+A. n
+B. n/2
+C. n+1
+D. n-1
+A. char name[10] = {`I','T','V','o','y','a','g','e','r','s'};
+B. int num[] = {1,2,3,4,5,6};
+C. char name[] = {`I','T','V','o','y','a','g','e','r','s'};
+D. int num[] = {1,'2',3,'4',5,'6'};
+A. int number;
+B. flaot rate;
+C. int variable_count;
+D. int $main;
+A. LowerCase letters
+B. UpperCase letters
+C. CamelCase letters
+D. None of the mentioned
+A. int my_num = 100,000;
+B. int my_num = 100000;
+C. int my num = 1000;
+D. int $my_num = 10000;
+A. volatile
+B. true
+C. friend
+D. export
+A. for
+B. while
+C. do-while
+D. all of the mentioned
+A. Internal
+B. External
+C. Both Internal and External
+D. External and Internal are not valid terms for functions
+A. int
+B. char *
+C. struct
+D. None of the mentioned
+A. stdlib. h
+B. ctype. h
+C. stdio. h
+D. stdarg. h
+A. int __a3;
+B. int __3a;
+C. int __A3;
+D. None of the mentioned
+A. int _a3;
+B. int a_3;
+C. int 3_a;
+D. int _3a
+A. It is not standardized
+B. To avoid conflicts since assemblers and loaders use such names
+C. To avoid conflicts since library routines use such names
+D. To avoid conflicts with environment variables of an operating system
+A. float PI = 3.14;
+B. double PI = 3.14;
+C. int PI = 3.14;
+D. #define PI 3.14;
+A. math.h
+B. assert.h
+C. stdmat. h
+D. stdio. h
+A. srand()
+B. rand()
+C. malloc()
+D. alloc()
+A. !=
+B. ==
+C. ||
+D. =

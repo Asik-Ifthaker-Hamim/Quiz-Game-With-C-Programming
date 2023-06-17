@@ -1,0 +1,13 @@
+The scope of an automatic variable is:
+Default storage class if not any is specified for a local variable, is auto
+Which of the following cannot be static in C?
+Which of the following is not a standard C Library?
+What is short int in C programming?
+What is the result of logical or relational expression in C?
+Functions in C Language are always _________
+What is #include <stdio.h>?
+Which of the following are C preprocessors?
+The C-preprocessors are specified with _________ symbol.
+The standard header _______ is used for variable list arguments (.) in C.
+In C language, FILE is of which data type?
+What is the sizeof(char) in a 32-bit C compiler?

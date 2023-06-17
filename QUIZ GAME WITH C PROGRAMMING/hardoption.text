@@ -1,0 +1,32 @@
+A. Whole source file in which it is defined
+B. From the point of declaration to the end of the file in which it is defined
+C. Any source file in a program
+D. From the point of declaration to the end of the file being compiled
+A. String str;
+B. char *str;
+C. float str = 3e2;
+D. Both String str; & float str = 3e2;
+A. Widening conversions
+B. Narrowing conversions
+C. Widening & Narrowing conversions
+D. None of the mentioned
+A. Within conditional statements, if, else
+B. Within while, do-while
+C. Within a macro definition
+D. None of the mentioned
+A. static a = 10; //static as
+B. static int func (int); //parameter as static
+C. static static int a; //a static variable prefixed with static
+D. all of the mentioned
+A. True
+B. False
+C. Depends on the standard
+D. Depends on the platform
+A. Jagged Array
+B. Rectangular Array
+C. Cuboidal Array
+D. Multidimensional Array
+A. char *
+B. struct
+C. void
+D. none of the mentioned

@@ -1,0 +1,52 @@
+A. Within the block it appears
+B. Within the blocks of the block it appears
+C. Until the end of program
+D. Both (a) and (b)
+A. true
+B. false
+C. Depends on the standard
+D. None of the mentioned
+A. Variables
+B. Functions
+C. Structures
+D. None of the mentioned
+A. errno.h
+B. setjmp.h
+C. signal.h
+D. retarg.h
+A. The basic data type of C
+B. Qualifier
+C. Short is the qualifier and int is the basic data type
+D. All of the mentioned
+A. True or False
+B. 0 or 1
+C. 0 if an expression is false and any positive number if an expression is true
+D. None of the mentioned
+A. Internal
+B. External
+C. Both Internal and External
+D. External and Internal are not valid terms for functions
+A. Preprocessor directive
+B. Inclusion directive
+C. File inclusion directive
+D. None of the mentioned
+A. #ifdef
+B. #define
+C. #endif
+D. all of the mentioned
+A. #
+B. $
+C. ""
+D. &
+A. <stdio.h >
+B. <stdlib.h>
+C. <math.h>
+D. <stdarg.h>
+A. int
+B. char *
+C. struct
+D. None of the mentioned
+A. 1 bit
+B. 2 bits
+C. 1 Byte
+D. 2 Bytes
